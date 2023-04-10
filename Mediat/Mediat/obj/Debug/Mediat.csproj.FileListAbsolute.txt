@@ -1,0 +1,13 @@
+C:\Users\DELL\source\repos\Mediat\Mediat\bin\Debug\Mediat.exe.config
+C:\Users\DELL\source\repos\Mediat\Mediat\bin\Debug\Mediat.exe
+C:\Users\DELL\source\repos\Mediat\Mediat\bin\Debug\Mediat.pdb
+C:\Users\DELL\source\repos\Mediat\Mediat\bin\Debug\MetroFramework.dll
+C:\Users\DELL\source\repos\Mediat\Mediat\obj\Debug\Mediat.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Mediat\Mediat\obj\Debug\Mediat.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\source\repos\Mediat\Mediat\obj\Debug\Mediat.Form1.resources
+C:\Users\DELL\source\repos\Mediat\Mediat\obj\Debug\Mediat.Properties.Resources.resources
+C:\Users\DELL\source\repos\Mediat\Mediat\obj\Debug\Mediat.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Mediat\Mediat\obj\Debug\Mediat.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Mediat\Mediat\obj\Debug\Mediat.csproj.CopyComplete
+C:\Users\DELL\source\repos\Mediat\Mediat\obj\Debug\Mediat.exe
+C:\Users\DELL\source\repos\Mediat\Mediat\obj\Debug\Mediat.pdb
